@@ -323,6 +323,16 @@
     "keyStop": 1,
     "step": 1
   },
+   "expiremember": {
+    "arity": 4,
+    "flags": [
+      "write",
+      "fast"
+    ],
+    "keyStart": 1,
+    "keyStop": 1,
+    "step": 1
+  },
   "flushall": {
     "arity": -1,
     "flags": [
